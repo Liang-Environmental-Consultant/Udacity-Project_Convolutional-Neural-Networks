@@ -3,7 +3,7 @@
 ##
 Please follow the link for the Github: https://github.com/Liang-Environmental-Consultant/Udacity-Project_Convolutional-Neural-Networks
 
-Please follow the link for the blog post: https://medium.com/@lilianli1986/a-study-of-parameters-influencing-dissolved-oxygen-concentration-in-a-stream-waterbody-in-florida-96f8038c170ahttps://medium.com/@lilianli1986/data-science-nanodegree-project-dog-breed-classification-ba82a6de36ea
+Please follow the link for the blog post: https://medium.com/@lilianli1986/data-science-nanodegree-project-dog-breed-classification-ba82a6de36ea
 
 ## Project Overview
 
