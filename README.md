@@ -6,6 +6,7 @@ This is the Udacity Data Scientist Nanodegree project that classify dog and huma
 
 ## Software/Library Requirments
 Python 3
+
 sklearn
 Numpy
 TensorFlow
