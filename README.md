@@ -1,5 +1,10 @@
 # Data Science Nanodegree Project: Dog Breed Classification
 
+##
+Please follow the link for the Github: https://github.com/Liang-Environmental-Consultant/Udacity-Project_Convolutional-Neural-Networks
+
+Please follow the link for the blog post: https://medium.com/@lilianli1986/a-study-of-parameters-influencing-dissolved-oxygen-concentration-in-a-stream-waterbody-in-florida-96f8038c170ahttps://medium.com/@lilianli1986/data-science-nanodegree-project-dog-breed-classification-ba82a6de36ea
+
 ## Project Overview
 
 This is the Udacity Data Scientist Nanodegree project that classify dog and human images using Convolutional Neural Networks (CNN). In this project, a series of CNN models were designed and compared for image classification. With the optimized CNN model, the dog's breed can be estimated given an image of a dog. Also, the resembling dog breed can be estimated if an image of a human is given.        
