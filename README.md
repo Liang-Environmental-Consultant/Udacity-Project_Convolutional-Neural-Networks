@@ -30,7 +30,7 @@ dog_app.ipynb: Jupyter notebook containing implementation of CNN to classify bre
 
 dog_app.html: Jupyter notebook rendered in html format
 
-image files (dog1.jpg, dog2.jpg, dog3.jpg, human1.jpg, human2.jpg, human3.jpg): These images are used to test the model
+test images (dog1.jpg, dog2.jpg, dog3.jpg, human1.jpg, human2.jpg, human3.jpg): These images are used to test the model
 
 
 ## Model Construction: CNN to Classify Dog Breeds (using Transfer Learning)
