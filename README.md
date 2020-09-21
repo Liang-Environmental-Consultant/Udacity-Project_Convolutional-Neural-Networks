@@ -8,20 +8,30 @@ This is the Udacity Data Scientist Nanodegree project that classify dog and huma
 Python 3
 
 sklearn
+
 Numpy
+
 TensorFlow
+
 keras
+
 glob
+
 cv2
+
 matplotlib
+
 tqdm
+
 PIL
 
 ## File Descriptions
 dog_app.ipynb: Jupyter notebook containing implementation of CNN to classify breeds of dogs
+
 dog_app.html: Jupyter notebook rendered in html format
-weights.best.from_scratch.hdf5, weights.best.VGG16.hdf5, weights.best.Resnet50.hdf5: Weight of CNN model build from scratch, and CNN model via transfer learning utilizing VGG16 and Resnet50 architecture
+
 image files (dog1.jpg, dog2.jpg, dog3.jpg, human1.jpg, human2.jpg, human3.jpg): These images are used to test the model
+
 
 ## Model Construction: CNN to Classify Dog Breeds (using Transfer Learning)
 
@@ -29,7 +39,9 @@ Transfer learning was applied using ResNet-50 bottleneck features to create a CN
 
 ### Model architecture:
 Resnet50_model = Sequential()
+
 Resnet50_model.add(GlobalAveragePooling2D(input_shape=train_Resnet50.shape[1:]))
+
 Resnet50_model.add(Dense(133, activation='softmax'))
 
 ## Results
